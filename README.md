@@ -2,6 +2,15 @@
 
 ## A simple backend platform that provides GraphQL API for CRUD database operations
 
+- Client is located at https://github.com/Doesntmeananything/graphql-book-app-client
+
+## How to run
+
+1. Clone/download client files.
+2. Run server by launching node trough entry point of App.js.
+3. Start client dev build with `npm start`.
+4. Begin developing!
+
 ### Built with:
 
 - Express
